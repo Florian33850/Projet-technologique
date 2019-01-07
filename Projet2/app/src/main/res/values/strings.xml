@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string-array name="color_array">
+        <item>Rouge</item>
+        <item>Vert</item>
+        <item>Jaune</item>
+        <item>Bleu</item>
+    </string-array>
+    <string-array name="picture_array">
+        <item>Plage</item>
+        <item>Poivron</item>
+    </string-array>
+</resources>
